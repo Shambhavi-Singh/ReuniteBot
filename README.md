@@ -8,6 +8,6 @@ The ReuniteBot is a twitter bot that:
 1) Likes and retweets the posts across twitter with hashtags related to missing and lost children.
 2) Tags and mentions important authorities to grab urgent attention and receive help.
 3) Uses location of the original post to determine which authorities to contact. We have tried contacting NGOs for shelter for lost children without families and the police authorities and government for missing children.
-4) Removes unneccessary irrelavent and unnecessary posts that aren't related to missing or lost children but have these hashtags.
+4) Removes irrelavent and unnecessary posts that aren't related to missing or lost children but have these hashtags.
 5) Uses NLP to classify posts into three categories: 1) Missing Children 2) Lost Children 3) Unrelated
  
