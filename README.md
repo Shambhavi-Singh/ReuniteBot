@@ -11,7 +11,7 @@ The ReuniteBot is a twitter bot that:
 4) Removes irrelavent and unnecessary posts that aren't related to missing or lost children but have these hashtags.
 5) Uses NLP to classify posts into three categories: 1) Missing Children 2) Lost Children 3) Unrelated
 
-###Challenges We Faced :robot:
+### Challenges We Faced :robot:
 
- ####Twitter Handle: https://twitter.com/ReuniteBot/with_replies
- ####Youtube video link: https://youtu.be/tfB6LQp9FT8
+ #### Twitter Handle: https://twitter.com/ReuniteBot/with_replies :twitter:
+ #### Youtube video link: https://youtu.be/tfB6LQp9FT8 :youtube:
