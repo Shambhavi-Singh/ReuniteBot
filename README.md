@@ -21,4 +21,4 @@ The ReuniteBot is a twitter bot that:
 
 
  
- #### Youtube video link: https://youtu.be/tfB6LQp9FT8 :youtube:
+ #### video link: https://youtu.be/tfB6LQp9FT8 :youtube:
