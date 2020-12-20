@@ -1,0 +1,93 @@
+
+body{
+    
+    background-color:#c4d1d9;
+    align-items: center;
+    color: #0a4350;
+    overflow-x: hidden;
+    }
+
+
+    
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.navbar-light{
+    
+    position: fixed;
+    background-color:#0c4e55;
+    width: 100%;
+    display: flex;
+    color:#ccdbdb ;
+}
+
+
+
+ul{
+    list-style: none;
+    display: block;
+   
+}
+
+.nav-link{
+    display: inline;
+    padding: 0 6rem;
+}
+.navbar-light .navbar-nav .nav-link{
+    text-decoration: none;
+    color:#ccdbdb ;
+    font-size: 1.5rem;
+    padding: 0.6rem;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #6fdacb;
+}
+
+
+
+
+#homepage{
+    vertical-align: middle;
+}
+.card{
+    
+    min-width:50%;
+    max-width: 75%;
+    
+}
+
+ 
+ .icons{
+     height:35px;
+     width:50px;
+ }
+ .profilepic{
+     width:130px;
+     height:130px;
+     margin:15px;
+ }
+
+.post-container{
+    background-color: #f7fff7;
+    width:90%;
+    margin:0 auto;
+    padding:10px;
+}
+
+.post-card{
+    background-color: #A2A785;
+    box-shadow: 2px 4px 16px 0 rgba(0,0,0,2);
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.post-header{
+    margin :0;
+}
+
+#homepage{
+    vertical-align: middle;
+}
