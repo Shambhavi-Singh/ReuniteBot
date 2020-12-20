@@ -19,6 +19,22 @@ The ReuniteBot is a twitter bot that:
 3) We had to learn vectorizing ML model so that our tweet objects could be put into them.
 4) We found it very challenging to incorporate the location feature of Twitter Bot.
 
+### What's Next for ReuniteBot? 
+1) We would like to expand the location feature to every state in India. Currently we only have few locations.
+2) We would like to use NLP further to extract contact information like email ids, mobile numbers, name directly from tweet text.
+3) We would like to use deep learning to match up tweets that are from missing and lost children categories using image processing.
+4) This twitter Bot can be extended to helping missing and lost people in general and not just children.
+5) We would also like to add in a feature of providing emotional support to parents of missing children using chatbots.
+
+### Tools and Technologies Used:
+Twitter API 
+Tweepy
+Pandas for data retrieval and cleaning
+Natural Language Processing
+Random Forest Classifier
+Node JS
+
+
 
  
  #### youtube video link: https://youtu.be/tfB6LQp9FT8 
