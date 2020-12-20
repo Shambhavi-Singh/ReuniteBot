@@ -1,7 +1,7 @@
 # The ReuniteBot :robot:
 
  #### The Bot: https://twitter.com/ReuniteBot/with_replies
-
+![Alt text](images/img.jpg?raw=true "Title")
 ### We Believe One Missing Child Is One Too Many :family:
 Nearly 800,000 missing children reports are registered worldwide every year. This is sadly only a fraction of the actual number of children who go missing or are found lost across the globe. Although these cases are reported to the police, in countries like India, often it is found that they are not given the attention they urgently need. Our inspiration behind this project was to help in this situation by providing a platform where urgent information regarding a missing child or a lost child found somewhere can be spread across social media quickly and widely so that it can be brought to everyone's attention as soon as possible.
 
