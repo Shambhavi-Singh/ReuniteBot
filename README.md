@@ -27,12 +27,12 @@ The ReuniteBot is a twitter bot that:
 5) We would also like to add in a feature of providing emotional support to parents of missing children using chatbots.
 
 ### Tools and Technologies Used:
-Twitter API 
-Tweepy
-Pandas for data retrieval and cleaning
-Natural Language Processing
-Random Forest Classifier
-Node JS
+#### Twitter API 
+#### Tweepy
+#### Pandas for data retrieval and cleaning
+#### Natural Language Processing
+#### Random Forest Classifier
+#### Node JS
 
 
 
